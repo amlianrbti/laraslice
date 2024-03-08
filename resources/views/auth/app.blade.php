@@ -24,12 +24,12 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="login-brand">
-                            <h1 class="text-danger">Lara<span class="text-primary">start</span></h1>
+                            <h1 class="text-danger">Web<span class="text-primary">Programming</span></h1>
                         </div>
 
                         @yield('content')
                         <div class="simple-footer">
-                            Copyright &copy; Larastart {{ date('Y') }}
+                          Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }}) by Amelia Nurbaeti
                         </div>
                     </div>
                 </div>

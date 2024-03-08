@@ -22,3 +22,5 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], 
     Route::get('/dashboard', DashboardController::class)->name('dashboard');
 });
 
+Route::post('/logout', );
+

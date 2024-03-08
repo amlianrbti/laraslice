@@ -1,7 +1,6 @@
 <footer class="main-footer">
     <div class="footer-left">
-        Copyright &copy; 2024-{{ date('Y') }} <div class="bullet"></div> webpro
-    </div>
+        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }}) by Amelia Nurbaeti
     <div class="footer-right">
         0.0.3
     </div>
