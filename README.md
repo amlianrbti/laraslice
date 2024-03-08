@@ -1,4 +1,3 @@
-<p align="center"><img src="../assets/img/WebPro.png" width="400" alt="WebPro Logo"></a></p>
 
 ## Tugas Slicing Stisla Laravel
 
